@@ -1,2 +1,2 @@
 # Geeks-for-Geeks
-Solutions to Problems listen on http://www.geeksforgeeks.org/
+Solutions to Problems listed on http://www.geeksforgeeks.org/
