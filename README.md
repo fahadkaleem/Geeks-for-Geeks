@@ -13,6 +13,15 @@ python filename.py
         2. Selection Sort
         3. Bubble Sort
         4. Insertion Sort
+        5. Merge Sort
+        6. Heap Sort
+        7. QuickSort
+        8. Radix Sort
+        9. Counting Sort
+        10. Bucket Sort
+        11. ShellSort
+        12. Comb Sort
+        13. Pigeonhole Sort
 2. Arrays
 3. String
 4. Matrix
