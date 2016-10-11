@@ -14,3 +14,6 @@ python filename.py
 ## Matrix
 
 ## LinkedList
+
+## Stacks
+
