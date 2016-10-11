@@ -9,7 +9,7 @@ python filename.py
 # Table of Contents
 1. [Algorithms](#algorithms)
     1. Searching and Sorting
-        1. [Binary Search](#https://github.com/fahadkaleem/Algorithms/blob/master/algorithms/searching/binary_search.py)
+        1. [Binary Search](https://github.com/fahadkaleem/Algorithms/blob/master/algorithms/searching/binary_search.py)
         2. Selection Sort
         3. Bubble Sort
         4. Insertion Sort
