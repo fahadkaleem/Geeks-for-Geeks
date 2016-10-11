@@ -18,6 +18,10 @@ python filename.py
 4. Matrix
 5. LinkedList
 6. Stack
+7. Queue
+8. Hash
+9. Heap
+10. Tree
 
 ## Arrays
 
