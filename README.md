@@ -16,7 +16,8 @@ python filename.py
 2. Arrays
 3. String
 4. Matrix
-
+5. LinkedList
+6. Stack
 
 ## Arrays
 
