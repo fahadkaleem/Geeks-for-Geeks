@@ -15,5 +15,5 @@ python filename.py
 
 ## LinkedList
 
-## Stacks
+## Stack
 
