@@ -33,6 +33,7 @@ python filename.py
 10. Tree
 11. Binary Search Tree
 12. Graph
+
 ## Algorithms
 
 ## Arrays
