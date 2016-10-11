@@ -9,4 +9,5 @@ python filename.py
 
 ## Arrays
 
+## String
 
