@@ -19,3 +19,5 @@ python filename.py
 
 ## Queue
 
+## Hash
+
