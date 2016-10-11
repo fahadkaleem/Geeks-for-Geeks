@@ -13,6 +13,10 @@ python filename.py
         2. Selection Sort
         3. Bubble Sort
         4. Insertion Sort
+2. Arrays
+3. String
+4. Matrix
+
 
 ## Arrays
 
