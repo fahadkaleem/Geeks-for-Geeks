@@ -7,7 +7,7 @@ To run any program, just use the following command
 python filename.py
 ```
 # Table of Contents
-1. Algorithms
+1. [Algorithms](#algorithms)
     1. Searching and Sorting
         1. Binary Search
         2. Selection Sort
@@ -33,6 +33,7 @@ python filename.py
 10. Tree
 11. Binary Search Tree
 12. Graph
+## Algorithms
 
 ## Arrays
 
