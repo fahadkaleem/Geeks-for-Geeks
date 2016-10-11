@@ -25,3 +25,5 @@ python filename.py
 
 ## Tree
 
+## BST
+
