@@ -9,19 +9,20 @@ python filename.py
 # Table of Contents
 1. [Algorithms](#algorithms)
     1. Searching and Sorting
-        1. [Binary Search](https://github.com/fahadkaleem/Algorithms/blob/master/algorithms/searching/binary_search.py)
-        2. Selection Sort
-        3. Bubble Sort
-        4. Insertion Sort
-        5. Merge Sort
-        6. Heap Sort
-        7. QuickSort
-        8. Radix Sort
-        9. Counting Sort
-        10. Bucket Sort
-        11. ShellSort
-        12. Comb Sort
-        13. Pigeonhole Sort
+        1. [Linear Search](https://github.com/fahadkaleem/Algorithms/blob/master/algorithms/searching/linear_search.py)
+        2. [Binary Search](https://github.com/fahadkaleem/Algorithms/blob/master/algorithms/searching/binary_search.py)
+        3. Selection Sort
+        4. Bubble Sort
+        5. Insertion Sort
+        6. Merge Sort
+        7. Heap Sort
+        8. QuickSort
+        9. Radix Sort
+        10. Counting Sort
+        11. Bucket Sort
+        12. ShellSort
+        13. Comb Sort
+        14. Pigeonhole Sort
 2. [Arrays](#arrays)
 3. [String](#string)
 4. [Matrix](#matrix)
