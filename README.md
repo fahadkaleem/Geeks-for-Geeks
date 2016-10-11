@@ -22,17 +22,17 @@ python filename.py
         11. ShellSort
         12. Comb Sort
         13. Pigeonhole Sort
-2. Arrays
-3. String
-4. Matrix
-5. LinkedList
-6. Stack
-7. Queue
-8. Hash
-9. Heap
-10. Tree
-11. Binary Search Tree
-12. Graph
+2. [Arrays](#arrays)
+3. [String](#string)
+4. [Matrix](#matrix)
+5. [LinkedList](#linkedlist)
+6. [Stack](#stack)
+7. [Queue](#queue)
+8. [Hash](#hash)
+9. [Heap](#heap)
+10. [Tree](#tree)
+11. [Binary Search Tree](#binary-search-tree)
+12. [Graph](#graph)
 
 ## Algorithms
 
