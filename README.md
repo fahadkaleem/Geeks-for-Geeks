@@ -25,5 +25,5 @@ python filename.py
 
 ## Tree
 
-## BST
+## Binary Search Tree
 
