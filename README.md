@@ -1,5 +1,5 @@
 # Geeks-for-Geeks
-This repository contians solutions to Problems listed on http://www.geeksforgeeks.org/
+This repository has solutions to Problems listed on http://www.geeksforgeeks.org/ in Python
 
 ## Run
 To run any program, just use the following command
@@ -40,6 +40,8 @@ python filename.py
 ## Arrays
 
 ## String
+
+ 1. [Program to count vowels in a string (Iterative)](http://www.geeksforgeeks.org/program-count-vowels-string-iterative-recursive/)
 
 ## Matrix
 
